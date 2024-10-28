@@ -127,6 +127,9 @@ Worklib is the directory where all the compiled codes are stored while Snapshot 
 
 ### Fig 7: Compiled database in worklib
 
+![exp3 pdvlsi_085237](https://github.com/user-attachments/assets/4b493de9-8c2a-4fed-b486-ca1fdea7d2ed)
+
+
 After compilation it will come under worklib you can see in right side window
 
 Select the test bench and compile it. It will come under worklib. Under Worklib you can see the module and test-bench. 
@@ -161,6 +164,7 @@ After elaboration the file will come under snapshot. Select the test bench and s
 
 ## Fig 8: Elaboration Launch Option
 
+
 ## Step 3: Simulation: 
 
 – Simulate with the given test vectors over a period of time to observe the output behaviour. 
@@ -176,8 +180,25 @@ Steps for simulation – Run the simulation command with simulator options
 ## Fig 9: Design Browser window for simulation
 
 ## Fig 10:Simulation Waveform Window
+![exp3 output pdvlsi_085155](https://github.com/user-attachments/assets/686876c0-5384-4e44-8226-37e21451a5af)
+
 
 ## Fig 11:Simulation Waveform Window
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
 
 
 
