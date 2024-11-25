@@ -177,7 +177,7 @@ Worklib is the directory where all the compiled codes are stored while Snapshot 
 
 To perform the function simulation, the following three steps are involved Compilation, Elaboration and Simulation. 
 
-![Screenshot 2024-10-26 092824]![WhatsApp Image 2024-11-25 at 12 33 35 PM](https://github.com/user-attachments/assets/86f2596a-ffd0-41f9-b12f-3021670a3714)
+]![WhatsApp Image 2024-11-25 at 12 33 35 PM](https://github.com/user-attachments/assets/86f2596a-ffd0-41f9-b12f-3021670a3714)
 
 ### Fig 6: Nclaunch Window
 
